@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm swalih t</h1>
 <h3 align="center">A passionate FullStack WebDevloper from India</h3>
 
-- 🔭 I’m currently working on **Outstock E-Commerce App**
+- 🔭 I’m currently working on **Meetup Video Call App**
 
 - 🌱 I’m currently learning **React, Nodejs**
 
